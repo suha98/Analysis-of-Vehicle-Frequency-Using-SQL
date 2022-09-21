@@ -1,2 +1,3 @@
 # Analysis-of-Vehicle-Frequency-Using-SQL
-Data from 70 traffic sensors was analysed using SQL; the number of vehicles detected was analysed according to location, vehicle type etc.
+
+Data from 70 traffic sensors was analysed in this project. The initial database had records of vehicles at 5 minute intervals. Analysis of vehicle frequency was conducted according to location, vehicle type, month, day, and day of week. Heatmaps were also produced using Folium and Geopandas to indicate regions with higher frequencies of vehicles.
